@@ -1,5 +1,7 @@
 # Deconstructing Klarna's $40M AI Claim
 
+[View Proposal](proposal.md) | [View Report](report.md)
+
 **A business value attribution analysis built in Excel**
 
 Klarna publicly claimed $40M in profit improvement from its AI customer service deployment. This project investigates how much of that is genuinely attributable to AI versus parallel restructuring initiatives running at the same time.
